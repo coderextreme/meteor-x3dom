@@ -82,7 +82,7 @@ if (!Array.filter) {
  * The Namespace container for x3dom objects.
  * @namespace x3dom
  * */
-var x3dom = {
+x3dom = {
     canvases : [],
 
     x3dNS    : 'http://www.web3d.org/specifications/x3d-namespace',
