@@ -1,8 +1,8 @@
-acemtp:x3dom
+yottzumm:x3dom
 ==============================================================================
 
-Provides <a href="http://www.x3dom.org/" target="_blank">X3DOM library</a> modified for use with Meteor.
+Provides <a href="http://www.x3dom.org/" target="_blank">X3DOM library</a> modified for use with Meteor.  X3DOM 1.7.2-dev (downloaded 2/25/2016)
 
 ## Example
 
-There's an example made for a tutorial for the Worldwide Meteor Day in the <a href="https://github.com/acemtp/meteor-blocks" target="_blank">repository</a>.
+There's an example at <a href="https://github.com/coderextreme/jsondemons" target="_blank">repository</a>.
