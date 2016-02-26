@@ -1,7 +1,7 @@
 Package.describe({
   name: 'yottzumm:x3dom',
   summary: 'Provides X3DOM library modified for use with Meteor.',
-  version: '1.7.2-dev_1',
+  version: '1.7.2-dev_2',
   git: 'https://github.com/coderextreme/meteor-x3dom'
 });
 
